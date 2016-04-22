@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Emmet",
+		"ImprovedMacros",
+		"Material Theme"
+	],
+	"repositories":
+	[
+		"https://github.com/skuroda/ImprovedMacros"
+	]
+}
