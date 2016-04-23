@@ -20,6 +20,7 @@
     "show_line_endings": true,
     "tab_size": 4,
     "vintage_start_in_command_mode": true,
-    "word_wrap": "auto",
-    "translate_tabs_to_spaces": true
+    "word_wrap": true,
+    "translate_tabs_to_spaces": true,
+    "rulers": [80]
 }
